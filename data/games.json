@@ -1,0 +1,107 @@
+{
+    "count": 873353,
+    "next": "https://api.rawg.io/api/games?key=6d8788412e764bbd87906bbb1f6422c5&page=2",
+    "previous": null,
+    "results": [
+        {
+            "id": 3498,
+            "slug": "grand-theft-auto-v",
+            "name": "Grand Theft Auto V"
+        },
+        {
+            "id": 4200,
+            "slug": "portal-2",
+            "name": "Portal 2"
+        },
+        {
+            "id": 5286,
+            "slug": "tomb-raider",
+            "name": "Tomb Raider (2013)"
+        },
+        {
+            "id": 13536,
+            "slug": "the-witcher-3-wild-hunt",
+            "name": "The Witcher 3: Wild Hunt"
+        },
+        {
+            "id": 4291,
+            "slug": "counter-strike-global-offensive",
+            "name": "Counter-Strike: Global Offensive"
+        },
+        {
+            "id": 5679,
+            "slug": "half-life-2",
+            "name": "Half-Life 2"
+        },
+        {
+            "id": 802,
+            "slug": "left-4-dead-2",
+            "name": "Left 4 Dead 2"
+        },
+        {
+            "id": 10035,
+            "slug": "cyberpunk-2077",
+            "name": "Cyberpunk 2077"
+        },
+        {
+            "id": 58175,
+            "slug": "hades",
+            "name": "Hades"
+        },
+        {
+            "id": 32,
+            "slug": "destiny-2",
+            "name": "Destiny 2"
+        },
+        {
+            "id": 28121,
+            "slug": "minecraft",
+            "name": "Minecraft"
+        },
+        {
+            "id": 567,
+            "slug": "doom",
+            "name": "DOOM (2016)"
+        },
+        {
+            "id": 12020,
+            "slug": "the-last-of-us-remastered",
+            "name": "The Last of Us Remastered"
+        },
+        {
+            "id": 1030,
+            "slug": "bioshock-infinite",
+            "name": "BioShock Infinite"
+        },
+        {
+            "id": 2454,
+            "slug": "the-elder-scrolls-v-skyrim",
+            "name": "The Elder Scrolls V: Skyrim"
+        },
+        {
+            "id": 278,
+            "slug": "dark-souls-iii",
+            "name": "Dark Souls III"
+        },
+        {
+            "id": 1202,
+            "slug": "hollow-knight",
+            "name": "Hollow Knight"
+        },
+        {
+            "id": 769,
+            "slug": "rocket-league",
+            "name": "Rocket League"
+        },
+        {
+            "id": 3387,
+            "slug": "the-sims-4",
+            "name": "The Sims 4"
+        },
+        {
+            "id": 5064,
+            "slug": "fallout-4",
+            "name": "Fallout 4"
+        }
+    ]
+}
